@@ -2,15 +2,18 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
-    .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+
+    p Todas las empresas que quieran tener éxito en su negocio deben implementar estrategias para la exhibición de su mercancía, desde esta perspectiva resulta fundamental conocer los medios y los elementos con lo que se dispone para realizar dicha tareas, la cual va a permitir obtener  beneficios significativos para todos los miembros de una organización, desde esta perspectiva, el objetivo principal de este espacio de formación es dar a conocer los mecanismos necesarios que un empresario puede utilizar para dar a conocer al usuario sus productos y servicios y ser competitivo en el mercado. 
+    p.mb-5 Sabiendo esto y para una breve revisión de los temas vistos, puede observar el siguiente esquema:
+
+    .row.justify-content-center(data-aos="slide-left")
+      .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="alt")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono
-            img(src="@/assets/bullets/icono-pdf.svg")
+            img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
 
