@@ -2,8 +2,8 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-botones
-      .titulo-principal__numero.colr_3
+    .titulo-principal.color-acento-contenido
+      .titulo-principal__numero
         span 1
       h1 Distribución comercial
     
@@ -59,12 +59,13 @@
             .col-12
               p 3. Por su parte Santesmases (1999) menciona que además, la separación geográfica entre vendedores y compradores hace necesaria una función que acerque los productos desde los lugares donde son fabricados hasta los lugares donde son consumidos. Desde este punto de vista, la distribución comercial se puede definir como la función o instrumento del <em>marketing</em>  (mercadotecnia o estudio del mercado) que relaciona la producción con el consumo y cuya misión es poner el producto a disposición del consumidor en la cantidad demandada, en el momento en que lo necesite y en el lugar donde desee adquirirlo, desarrollando, además un conjunto de actividades como pueden ser las de información, promoción y presentación del producto en el punto de venta a fin de estimular la compra por parte de los consumidores. (p. 509).
 
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right").mb-3
-      h5 Figura 1
-      span <em>Proceso empresarial de la distribución comercial</em>
+    
 
     .row.mb-5.justify-center(data-aos="zoom-in-up")
       .col-12.col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right").mb-3
+          h5 Figura 1.
+          span Proceso empresarial de la distribución comercial
         figure.mb-3
           img(src='@/assets/curso/tema1/t1-4.svg' alt='AvatarTop')
 
@@ -75,7 +76,7 @@
       .col-12.col-lg-7.mb-3.mb-lg-0
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right").mb-3
           span Utilidades de la distribución comercial
-        SlyderA(tipo="b").bgr_4.modif_1.modif_8
+        SlyderA(tipo="b").bgr_3.modif_1.modif_7
           .row.p-3.p-lg-5
             .col-2.align-items-center
               figure.mb-3.justify-end
@@ -178,55 +179,55 @@
     .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right").mb-3
       span Funciones de canales de distribución 
     
-    .row.mb-5
+    .row.mb-5.align-items-center
       .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/t1-11.svg' alt='AvatarTop')
       .col-12.col-lg-4(data-aos="fade-left")
         ol.lista-ol--cuadro
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 1
             | Transportar los productos o materia prima.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 2
             | Organizar la oferta de los productos.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 3
             | Almacenar los productos.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 4
             | Contactar al cliente objetivo.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 5
             | Informar sobre el mercado.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 6
             | Ofrecer la variedad de productos.
       .col-12.col-lg-4(data-aos="fade-right")
         ol.lista-ol--cuadro
-          li.mb-4 
+          li.mb-4.d-flex.d-flex
             .lista-ol--cuadro__vineta
               span 7
             p.mb-0 Participar en actividades de <em>marketing</em> (investigación de mercado).
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 8
             | Financiar el proceso comercial.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 9
             | Generar satisfacción en el consumidor.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 10
             | Contraer los riesgos.
-          li.mb-4 
+          li.mb-4.d-flex 
             .lista-ol--cuadro__vineta
               span 11
             | Normalizar las transacciones comerciales.
@@ -265,7 +266,7 @@
 
     .row.justify-center.mb-5(data-aos="zoom-in-down")
       .col-12.col-lg-10
-        .bloque-texto-g.bgr_5.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.bgr_26.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/t1-16.png')})`}"
           )
@@ -275,7 +276,7 @@
               br
               | El apoyo que realiza la logística se da mediante la programación de las rutas dispuestas para hacer la entregas en el menor tiempo, garantizando la disponibilidad de los productos en los puntos de venta.
 
-    .tarjeta.color-primario.colr.p-3.mb-5
+    .tarjeta.color-primario.colr.bgr_27.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/tema1/t1-17.svg")
@@ -291,16 +292,16 @@
 
     .bg_grad-02
       .row.mb-5.justify-center
-        .col-12.col-lg-5.p-4.p-lg-5(data-aos="fade-right")
+        .col-12.col-lg-6.p-4.p-lg-5(data-aos="fade-right")
           p La labor complementaria de la logística es llevar el control de los inventarios, definir los insumos y bienes que se requieren, registran cada materia prima utilizada en la elaboración del producto terminado o en proceso y también las acciones que indican cuántos artículos quedan en existencia, su ubicación y el responsable de ellos; la logística comercial es fundamental para evitar gastos innecesarios dentro de la organización y satisfacer al consumidor; finalmente, permiten mejorar la coordinación de factores que repercuten en la decisión de compra tanto en calidad, confianza, empaque, distribución, servicios y precio.
-        .col-12.col-lg-5(data-aos="fade-left")
+        .col-12.col-lg-4(data-aos="fade-left")
           figure.mb-3  
             img(src='@/assets/curso/tema1/t1-18.png' alt='AvatarTop')
 
     .row.mb-5(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
         h3.p-3.bgr_2.text-center Ventajas de una logística eficiente
-        img.pst_9(src='@/assets/curso/tema1/t1-19.svg' alt='AvatarTop')
+        img.pst(src='@/assets/curso/tema1/t1-19.svg' alt='AvatarTop')
     
     .row.mb-5
       .col-12.col-lg-4.mb-3.mb-lg-0(data-aos="zoom-in-up")
@@ -323,7 +324,7 @@
 
     .row.justify-center(data-aos="zoom-in-down")
       .col-12.col-lg-10
-        SlyderA(tipo="b").modif_4.bgr_9.p-4.modif_8
+        SlyderA(tipo="b").modif_4.bgr_3.p-4.modif_7
           .row
             .col-md-6.mb-4.mb-md-0
               figure 
