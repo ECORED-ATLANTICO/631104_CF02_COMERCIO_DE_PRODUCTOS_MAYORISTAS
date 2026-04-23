@@ -12,11 +12,11 @@
         p.mb-5 La guía para el manejo integral de residuos como lo menciona el subsector de centros comerciales hace referencia a:
         div.position-relative.bg_grad-08
           p.text-bold.ms-5 La planeación y cobertura de las actividades relacionadas con los residuos, desde la generación hasta la disposición final, incluyendo los aspectos de segregación, movimiento interno, almacenamiento, desactivación, recolección, transporte y tratamiento, con lo cual se pretende evitar y minimizar la generación de residuos e incrementar el aprovechamiento de éstos, de tal suerte que cada vez sea menor la cantidad de residuos a disponer.
-          img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
-          img.img30.pst_6(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
+          img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
+          img.img30.pst_6(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
       .col-12.col-lg-3(data-aos="fade-left")
         figure.mb-5
-          img(src='@/assets/curso/tema7/t7-1.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema7/t7-1.png', alt='')
     .bg_grad-11
       p Observe en la siguiente figura la jerarquización de la gestión de residuos:  
       .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right")
@@ -26,7 +26,7 @@
       .row.mb-5.justify-center
         .col-12.col-lg-6
           figure.mb-5
-            img(src='@/assets/curso/tema7/t7-2.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema7/t7-2.svg', alt='')
 
       p.mb-5 Es importante saber que la normatividad ambiental en Colombia está regida por lo siguiente:
 
@@ -34,16 +34,16 @@
         .col-12.col-lg-7.mb-3.mb-lg-0(data-aos="fade-right")
           div.position-relative.bg_grad-09
             p.text-bold.ms-5 Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades. CONSIDERANDO: que el Gobierno nacional expidió el Decreto número 2676 de 2000 modificado por los Decretos números 2763 de 2001, 1669 de 2002 y 4126 de 2005.
-            img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
-            img.img30.pst_7(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='Texto que describa la imagen')
+            img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
+            img.img30.pst_7(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
         .col-12.col-lg-1(data-aos="fade-left")
           figure.justify-center
-            img.img100(src='@/assets/curso/tema7/t7-3.svg', alt='Texto que describa la imagen')
+            img.img100(src='@/assets/curso/tema7/t7-3.svg', alt='')
 
     .row.mb-5(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
         h3.p-3.bgr_2.text-center Tipos de residuos 
-        img.pst_8(src='@/assets/curso/tema7/t7-4.svg' alt='AvatarTop')
+        img.pst_8(src='@/assets/curso/tema7/t7-4.svg' alt='')
     
     p Los tipos de residuos que generan los centros comerciales especialmente son: envases de vidrio y plásticos, embalajes como cajas de cartón y plástico, flejes o chapas de hierro u otro material, sobrantes de mercancías, materiales y productos defectuosos, productos vencidos, residuos punzantes y cortantes y residuos procedentes de los baños de los diferentes formatos comerciales.
     p.mb-5 Para profundizar mejor en este tema revise con atención el siguiente recurso:
@@ -84,7 +84,7 @@
     .row.mb-5(data-aos="fade-right")
       .col-10.col-lg-4.position-relative
         h3.p-3.bgr_2.text-center Procedimientos de manejo 
-        img.pst(src='@/assets/curso/tema7/t7-5.svg' alt='AvatarTop')
+        img.pst(src='@/assets/curso/tema7/t7-5.svg' alt='')
     
     p.text.bold Las materias primas que entran a los centros comerciales no sufren transformación ya que son productos terminados, lo que hace el establecimiento es entregar en bolsas o papel de empaque los productos, los únicos que transforman los productos son los restaurantes donde convierten en platos de la carta las verduras, frutas, granos, etc.
     p.mb-5 Cada centro comercial cuenta con programas de reciclaje, los cuales permiten la separación de los productos aprovechables de los productos no aprovechables, esto lo debe cumplir cada local comercial en donde los encargados de las ventas o el personal asignado para dicha labor  debe hacer la separación en la fuente y llevarla al centro de acopio de los desechos, en donde el personal de limpieza se encarga de hacer la separación en grandes recipientes, lo que indica que no se requiere de grandes recipientes en cada local.
@@ -94,7 +94,7 @@
         p.mb-0 Los centros comerciales deben cumplir con los criterios de almacenamiento que contemplan los Decretos 1713 de 2002 y 1140 de 2003, que establecen la adecuación de acopio de los residuos, los centros comerciales tienen problemas de espacio pues por lo general no cuentan con lugares espaciados para dicho almacenamiento, por lo que esto los obliga a deshacerse rápidamente de los desechos.
       .col-12.col-lg-5(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/tema7/t7-6.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema7/t7-6.png', alt='')
 
 
  

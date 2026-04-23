@@ -104,10 +104,11 @@ figcaption
     background-color: #C5EAFB
     background-repeat: no-repeat
     background-size: contain
-    @media screen and ( max-width: 420px )
+    @media screen and ( max-width: 768px )
       width: 54%
       height: 21%
       left: 0
+
 .bg_grad-02
   position: relative
   .row
@@ -123,10 +124,16 @@ figcaption
     background-color: #FFF9D9
     background-repeat: no-repeat
     background-size: contain
-    @media screen and ( max-width: 420px )
+    @media screen and ( max-width: 1024px )
+      left: 0
+      top: 10%
+      width: 26%
+      height: 30%
+    @media screen and ( max-width: 768px )
       width: 54%
       height: 21%
       left: 0
+      top: 0
 .bg_grad-03
   position: relative
   p
@@ -237,11 +244,11 @@ figcaption
     background-color: #FFF9D9
     background-repeat: no-repeat
     background-size: contain
-    @media screen and ( max-width: 420px )
-      width: 54%
-      height: 34%
-      left: 175px
-      top: 195px
+    @media screen and ( max-width: 768px )
+      top: 0
+      left: 0
+      width: 50%
+      height: 55%
 .bg_grad-09
   position: relative
   p,
@@ -257,11 +264,11 @@ figcaption
     background-color: #FFF9D9
     background-repeat: no-repeat
     background-size: contain
-    @media screen and ( max-width: 420px )
-      width: 62%
-      height: 54%
-      left: 35px
-      top: 98px
+    @media screen and ( max-width: 768px )
+      top: 0
+      left: 0
+      width: 50%
+      height: 55%
 .bg_grad-10
   position: relative
   p
@@ -344,21 +351,21 @@ figcaption
   &_13
     background-color: #F6F6F6
     &::before
-      background-color: #AAFDEE
+      background-color: #C5EAFB
   &_14
     background-color: #F6F6F6
     height: 119px
     @media screen and (max-width: 420px)
       height: 70px
     &::before
-      background-color: #492DFB
+      background-color: #636363
   &_15
     background-color: #F6F6F6
     height: 98px
     @media screen and (max-width: 420px)
       height: 70px
     &::before
-      background-color: #C0B6FE
+      background-color: #AFAFAF
   &_16
     background-color: #F6F6F6
     &::before
@@ -370,7 +377,7 @@ figcaption
   &_18
     background-color: #F6F6F6
     &::before
-      background-color: #FFD400
+      background-color: #F4B400
   &_19
     background-color: #F6F6F6
     &::before
@@ -379,14 +386,14 @@ figcaption
     background-color: #FFFBEF
     border-radius: 10px
   &_21
-    background-color: #D1CAFE
+    background-color: #E8E8E8
     &::before
-      background-color: #4A2EFC
+      background-color: #AFAFAF
   &_22
     .tarjeta--azul
       background-color: #F6F6F6
     .tarjeta--azul.acordion__activo
-      background-color: #C7F8FA
+      background-color: #FFF9D9
   &_23
     background-color: #C5EAFB
     border-radius: 10px
@@ -406,6 +413,11 @@ figcaption
     background-color: #E8E8E8
   &_27
     background-color: #D3F9F2 !important
+  &_28
+    .tarjeta--azul
+      background-color: #F6F6F6
+    .tarjeta--azul.acordion__activo
+      background-color: #C7F8FA
 .colr
   *
     color: #12263F !important
@@ -421,19 +433,19 @@ figcaption
 .pst
   position: absolute
   top: -13px
-  right: -50px
+  right: -60px
   width: 87px
   @media screen and (max-width: 420px)
     right: -50px
   &_1
     left: 50%
-    @media screen and (max-width: 420px)
+    @media screen and (max-width: 768px)
       left: 0
   &_2
     right: 33%
     width: 69%
     margin-top: 0 !important
-    @media screen and (max-width: 420px)
+    @media screen and (max-width: 768px)
       right: 0
       width: 100%
       margin-top: 190px !important
@@ -444,7 +456,7 @@ figcaption
     right: 33%
     width: 69%
     margin-top: 0 !important
-    @media screen and (max-width: 420px)
+    @media screen and (max-width: 768px)
       right: 0
       width: 100%
       margin-top: -14px !important
@@ -462,8 +474,11 @@ figcaption
     bottom: -8px
     left: 166px
     transform: rotate(180deg)
-    @media screen and (max-width: 420px)
-      left: 219px
+    @media screen and (max-width: 768px)
+      left: 450px
+    @media screen and (min-width: 425px)
+      left: 220px
+     
   &_8
     position: absolute
     top: -25px
@@ -482,7 +497,7 @@ figcaption
 //PADDING//
 .PDD
   padding: 4rem !important
-  @media screen and (max-width: 420px)
+  @media screen and (max-width: 768px)
     padding: 1rem !important
 
 //CLASES SOBREESCRITAS//
@@ -535,7 +550,7 @@ figcaption
   &_3
     right: -29px !important
     width: 70% !important
-    @media screen and (max-width: 420px)
+    @media screen and (max-width: 768px)
       right: 0 !important
       width: 100% !important
   &_4
@@ -545,8 +560,12 @@ figcaption
       margin-top: -4rem !important
       width: 470px
       left: 495px
-      @media screen and (max-width: 420px)
-        margin-top: -1rem !important
+      @media screen and (max-width: 1024px)
+        margin-top: -3rem !important
+        width: 400px
+        left: 416px
+      @media screen and (max-width: 768px)
+        margin-top: 1rem !important
         width: 100%
         left: 0
   &_5
@@ -609,19 +628,14 @@ figcaption
       top: 16% !important;
       right: -241px !important;
       width: 219px;
-    @media screen and (max-width: 420px)
-      top: 20% !important
-      right: 16% !important
+    @media screen and (max-width: 768px)
+      top: 40% !important
+      right: 0 !important
       background-color: $color-secundario
       border-radius: 10px
-      height: 60%
-  &_1
-    .img-infografica__card
-      top: 17% !important
-      left: 886px !important
-      @media screen and (max-width: 420px)
-        top: 0% !important
-        left: 5% !important
+      height: auto
+      width: auto
+  
 .tabs-c.color-acento-contenido .tabs-c__tab--active
   border-bottom-color: #394989 !important;
   span 
@@ -631,8 +645,8 @@ figcaption
 .tabs-c__content-item
   background-color: #EDEDF0
 
-  
-
+.tabs-c__header 
+  margin-bottom: 0
 
 
     

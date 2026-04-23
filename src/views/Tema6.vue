@@ -21,15 +21,16 @@
     .row.mb-5.justify-center
       .col-12.col-lg-10
         figure.mb-5(data-aos="zoom-in-down")
-          img(src='@/assets/curso/tema6/t6-2.svg', alt='Texto que describa la imagen')
+          img.d-none.d-lg-block(src='@/assets/curso/tema6/t6-2.svg', alt='')
+          img.d-block.d-lg-none(src='@/assets/curso/tema6/t6-2-1.svg', alt='')
 
     p.mb-5 Los objetivos principales para crear un plan promocional son:
 
     .row.mb-5.justify-center
       .col-12.col-lg-10
         figure.mb-5
-          img(src='@/assets/curso/tema6/t6-3.svg', alt='Texto que describa la imagen')
-
+          img.d-none.d-lg-block(src='@/assets/curso/tema6/t6-3.svg', alt='')
+          img.d-block.d-lg-none(src='@/assets/curso/tema6/t6-3-1.svg', alt='')
     p.mb-5 Para realizar un plan promocional hay que tener en claro los objetivos de la promoción y las estrategias a realizar; los principales pasos a seguir son:
 
     .bg_grad-07(data-aos="zoom-in-down")
@@ -42,25 +43,25 @@
             p #[strong Alimentar:] lograr que los clientes consuman con más frecuencia nuestros productos o servicios.
             p #[strong Enfoque táctico de los objetivos]
             ul.lista-ul--color
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Realizar más ventas.
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Lanzar nuevos productos o servicios.
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 span Dar salida al exceso de <em>stock.</em>
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Obtener liquidez a corto plazo.
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Crear barreras a la competencia.
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Ganarse la confianza de un distribuidor.
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Generar BDD (estrategia de desarrollo dirigida por comportamiento)
         .row(titulo="02" subtitulo="Definir target (objetivo)")
@@ -72,7 +73,7 @@
         .row(titulo="03" subtitulo="Presupuesto")
           .col-lg-12.mb-4.mb-lg-0
             p El presupuesto debe definirse en tres criterios, el primero es los recursos con los que cuenta la empresa, el segundo teniendo en cuenta el porcentaje (%) de las ventas proyectadas y el tercero está en función de la competencia y sus gastos.
-            .cajon.bgr_25.p-5.mb-4
+            .cajon.bgr_25.p-4.mb-4
               p.mb-0 El presupuesto debe obedecer a la realidad y debe coincidir con los objetivos, por ejemplo, si la previsión es optimista y el presupuesto ajustado no se considera realista.  
         .row(titulo="04" subtitulo="Timing (tiempo)")
           .col-lg-12.mb-4.mb-lg-0
@@ -85,19 +86,19 @@
           .col-lg-12.mb-4.mb-lg-0
             p En este punto de deben tener en cuenta los siguientes aspectos:
             ul.lista-ul--color
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Periodo promocional (fecha inicial y fecha final de la promoción).
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Quién puede participar (clientes inscritos en la base de datos o los clientes en general).
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Fecha de sorteo (día en el que se va a sortear el carro, nevera, etc.).
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Cláusula protección de datos (de los clientes que se encuentran en su base de datos).
-              li.mb-4
+              li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Premios (descuentos, bonos, promociones, regalos, etc.).
         .row(titulo="07" subtitulo="Test")
