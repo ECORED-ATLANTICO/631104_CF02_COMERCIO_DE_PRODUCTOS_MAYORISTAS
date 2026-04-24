@@ -270,7 +270,7 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
@@ -289,19 +289,19 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
         {
-          nombre: 'Diana Carolina Jaramillo Rojas',
+          nombre: 'Esperanza Cardona Grisales',
           cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios Regional - Cauca',
         },
         {
-          nombre: 'Diego Acevedo',
-          cargo: 'Diseñador y evaluador instruccional',
+          nombre: 'Jeimy Lorena Romero Perilla',
+          cargo: 'Diseñador instruccional ',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Centro de la industria, la empresa y los servicios Regional - Norte de Santander',
         },
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora metodológica',
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor metodológico',
           centro: 'Centro de Diseño y Metrología Regional - Distrito Capital',
         },
       ],
@@ -315,7 +315,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Fabio Fonseca Arguelles',
+          nombre: 'Carlos Andrés Diaz Pinto',
           cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -336,14 +336,20 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
         {
-          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          nombre: 'Angela Maldonado Jaime',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
         {
-          nombre: 'María Carolina Tamayo López',
-          cargo: 'Locución',
+          nombre: 'Daniela Bedoya Muñoz',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Gilberto Junior Rodriguez Rodriguez',
+          cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
@@ -354,13 +360,25 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
         {
-          nombre: 'Ángela María Maldonado Jaime',
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
         },
         {
-          nombre: 'Erika Viviana Sandoval Rojas',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'John Jairo Arciniegas González',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional - Santander',
+        },
+        {
+          nombre: 'Ludwyng Corzo García',
           cargo: 'Producción audiovisual',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional - Santander',
@@ -376,7 +394,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
+          nombre: 'Marinella Vargas Altahona',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
