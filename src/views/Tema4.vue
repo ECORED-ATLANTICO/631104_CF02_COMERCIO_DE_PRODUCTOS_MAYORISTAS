@@ -9,7 +9,7 @@
     
     .row.mb-5.justify-center(data-aos="fade-right")
       .col-12.col-lg-5.mb-3.mb-lg-0.bg_grad-06.mt-5.mt-lg-0.align-items-center
-        p El material POP que en inglés traduce <em>Point of Purchase displays</em> (pantallas de punto de compra) es la publicidad impresa o digital que se coloca al lado de los productos exhibidos, asegurando que el cliente se relacione e interactúe con los productos, se convierte en un recurso de apoyo para las marcas, es utilizado para reforzar la comunicación, brindando información adicional del producto.
+        p El material POP (<em>Point of Purchase displays</em>) que traduce "pantallas de punto de compra", es la publicidad impresa o digital que se coloca al lado de los productos exhibidos, asegurando que el cliente se relacione e interactúe con los productos, se convierte en un recurso de apoyo para las marcas, es utilizado para reforzar la comunicación, brindando información adicional del producto.
       .col-12.col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/t4-1.png' alt='')
@@ -35,7 +35,7 @@
         .col-lg-5.mb-4.mb-lg-0.align-items-center
           div
             p.text-bold 2. Rompetráfico o <em>stopper</em>
-            p Es un elemento pequeño o mediano que sobresale para promocionar productos, se convierten en la decoración de la señalización, pueden ubicarse en cualquier parte de la exhibición de los productos, su función es llamar la atención del cliente. Mide 25 centímetros de diámetro, la lengua para sujetar a la pared mide 5 centímetros, incluye dos cintas en doble fast.    
+            p Es un elemento pequeño o mediano que sobresale para promocionar productos, se convierten en la decoración de la señalización, pueden ubicarse en cualquier parte de la exhibición de los productos, su función es llamar la atención del cliente. Mide 25 centímetros de diámetro, la lengua para sujetar a la pared mide 5 centímetros, incluye dos cintas en doble <em>fast</em>.    
             P.mb-0 Las funciones que cumple el rompetráfico son: 
             | sobresalir del lineal, destacar la exhibición del producto, distingue la categoría, marca o producto; están elaborados en cartón o acrílico, en diferentes formas y dimensiones.
         .col-lg-7
@@ -53,7 +53,7 @@
         .col-lg-5.mb-4.mb-lg-0.align-items-center
           div
             p.text-bold 4. <em>Floor print</em>
-            p Es un elemento decorativo que los clientes ven adherido al piso de los pasillos de los puntos de venta, permite resaltar la ubicación del producto, su objetivo principal es diferenciarse de la competencia, es una herramienta que ayuda a vender sin la necesidad del impulsador o vendedor, permite reducir gastos en una campaña BTL o <em>Below The Line</em> (literalmente “bajo la línea) esta técnica publicitaria es parte de la comunicación no masiva del marketing, fomenta la recordación de la marca y aumenta las ventas.
+            p Es un elemento decorativo que los clientes ven adherido al piso de los pasillos de los puntos de venta, permite resaltar la ubicación del producto, su objetivo principal es diferenciarse de la competencia, es una herramienta que ayuda a vender sin la necesidad del impulsador o vendedor, permite reducir gastos en una campaña BTL o <em>Below The Line</em> (literalmente “bajo la línea) esta técnica publicitaria es parte de la comunicación no masiva del <em>marketing</em>, fomenta la recordación de la marca y aumenta las ventas.
             p Sus funciones son: generar recordación de la marca, aumentar la publicidad y llamar la atención de los clientes.
             p.mb-0 Están elaborados con vinilo o sustrato adhesivo, son lavables y su impresión es digital.
         .col-lg-7
@@ -82,7 +82,7 @@
           div
             p.text-bold 7. <em>Banners</em>
             p Son imágenes publicitarias digitales, se colocan en diferentes lugares como por ejemplo en las páginas web, su objetivo es atraer tráfico a la página del anunciante.
-            p.mb-0 Los banners tienen diferentes formas y tamaños, incluyen imágenes, textos, videos y audios con el fin de llamar la atención, están ubicados en la parte superior de la página <em>web</em>, también pueden aparecer insertados entre su contenido, es un formato publicitario de internet, se crea a partir de imágenes en formato GIF, JPEG o PNG, cuentan con animaciones creadas con Java y otros.
+            p.mb-0 Los <em>banners</em> tienen diferentes formas y tamaños, incluyen imágenes, textos, videos y audios con el fin de llamar la atención, están ubicados en la parte superior de la página web, también pueden aparecer insertados entre su contenido, es un formato publicitario de internet, se crea a partir de imágenes en formato GIF, JPEG o PNG, cuentan con animaciones creadas con Java y otros.
         .col-lg-7
           figure
             img(src='@/assets/curso/tema4/t4-9.png', alt='')

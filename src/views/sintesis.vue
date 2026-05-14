@@ -9,7 +9,7 @@
     .row.justify-content-center(data-aos="slide-left")
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="Se presenta la relación entre diferentes conceptos asociados a las técnicas de exhibición de mercancía. Incluye temas de logística, canales de distribución, intermediarios y distribución; además de planograma, técnicas, niveles y zonas, y exhibición de mercancía. Estos elementos se integran con los formatos comerciales para conformar las técnicas de exhibición de mercancía, de las cuales se derivan aspectos como material POP, mobiliario, normatividad ambiental y plan promocional, actividades y materiales. ")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

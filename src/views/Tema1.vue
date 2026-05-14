@@ -11,7 +11,7 @@
       .row.mb-5.justify-center.align-items-center
         .col-12.col-lg-5.p-4.p-lg-5(data-aos="fade-right")
           p El concepto de distribución comercial abarca dos aspectos fundamentales que dependen del entorno, <b>se entiende la distribución comercial como un sector de la economía y también como un proceso empresarial.</b>
-          P Veamos:
+          P A continuación:
         .col-12.col-lg-5(data-aos="fade-left")
           figure.mb-3  
             img(src='@/assets/curso/tema1/t1-1.png' alt='')
@@ -51,13 +51,13 @@
         SlyderA(tipo="b").bgr_3.modif_1.modif_7
           .row.p-3.p-lg-5
             .col-12
-              p 1. Cruz  (1991) considera que: “Para que las ventas de una empresa se produzcan no basta con tener un buen producto, a un buen precio y que sea conocido por los consumidores, sino que, además, es necesario que se encuentre en el lugar y momento adecuados para que ese producto sea accesible al consumidor” (p. 250). 
+              p 1. Cruz  (1991) considera que: “para que las ventas de una empresa se produzcan no basta con tener un buen producto, a un buen precio y que sea conocido por los consumidores, sino que, además, es necesario que se encuentre en el lugar y momento adecuados para que ese producto sea accesible al consumidor” (p. 250). 
           .row.p-3.p-lg-5
             .col-12
-              p 2. Vásquez y Trespalacios (1997) manifiestan que “la distribución comercial, al encontrarse entre la producción y el consumo, va a crear utilidades a los consumidores y servicios a los productores. La distribución crea al consumidor utilidad de lugar, de tiempo, de forma y de creación de surtidos y de posesión. (p.2829). 
+              p 2. Vásquez y Trespalacios (1997) manifiestan que: “la distribución comercial, al encontrarse entre la producción y el consumo, va a crear utilidades a los consumidores y servicios a los productores. La distribución crea al consumidor utilidad de lugar, de tiempo, de forma y de creación de surtidos y de posesión” (p.2829). 
           .row.p-3.p-lg-5
             .col-12
-              p 3. Por su parte Santesmases (1999) menciona que además, la separación geográfica entre vendedores y compradores hace necesaria una función que acerque los productos desde los lugares donde son fabricados hasta los lugares donde son consumidos. Desde este punto de vista, la distribución comercial se puede definir como la función o instrumento del <em>marketing</em>  (mercadotecnia o estudio del mercado) que relaciona la producción con el consumo y cuya misión es poner el producto a disposición del consumidor en la cantidad demandada, en el momento en que lo necesite y en el lugar donde desee adquirirlo, desarrollando, además un conjunto de actividades como pueden ser las de información, promoción y presentación del producto en el punto de venta a fin de estimular la compra por parte de los consumidores. (p. 509).
+              p 3. Por su parte Santesmases (1999) menciona que: “además, la separación geográfica entre vendedores y compradores hace necesaria una función que acerque los productos desde los lugares donde son fabricados hasta los lugares donde son consumidos. Desde este punto de vista, la distribución comercial se puede definir como la función o instrumento del <em>marketing</em>  (mercadotecnia o estudio del mercado) que relaciona la producción con el consumo y cuya misión es poner el producto a disposición del consumidor en la cantidad demandada, en el momento en que lo necesite y en el lugar donde desee adquirirlo, desarrollando, además un conjunto de actividades como pueden ser las de información, promoción y presentación del producto en el punto de venta a fin de estimular la compra por parte de los consumidores” (p. 509).
 
     
 
@@ -66,8 +66,9 @@
         .titulo-sexto.color-acento-contenido.mb-5(data-aos="zoom-in-right").mb-3
           h5 Figura 1.
           span Proceso empresarial de la distribución comercial
-        figure.mb-3
-          img(src='@/assets/curso/tema1/t1-4.svg' alt='')
+        figure.mb-2
+          img(src='@/assets/curso/tema1/t1-4.svg' alt='Diagrama de tres niveles de la cadena de distribución: centros de distribución o industria (empresas fabricantes), distribución comercial o intermediación (empresas comerciales) y centros de consumo o mercado (consumidores finales u organizaciones), conectados verticalmente para mostrar el proceso desde la producción hasta el consumo. ')
+        figcaption Nota. SENA, (2026).
 
     p.mb-5 En la distribución comercial existen algunos tipos de utilidades, para conocerlos revise con atención el siguiente recurso educativo:
 
@@ -287,7 +288,7 @@
               p Para ampliar la información respecto al tema de canales de distribución y logística comercial, le invitamos a consultar el video que está en los materiales complementarios denominado: <b>“Canales de distribución y logística”</b>, en donde encontrará aspectos fundamentales que permiten su entendimiento. 
             .col-sm-auto
               a.boton.color-acento-botones(href="https://www.youtube.com/embed/Y9FGiUS1oik" target="_blank")
-                span Ver video
+                span Enlace video
                 i.fas.fa-link
 
     .bg_grad-02
@@ -313,7 +314,7 @@
         .bgr_8.p-5
           figure.mb-3.justify-center 
             img.img90(src='@/assets/curso/tema1/t1-21.svg' alt='')
-          p.mb-0.text-center Se consigue ahorrar en costos tanto para la empresa como para los clientes teniendo en cuenta que más o menos el 15% del precio de los productos corresponde al transporte.
+          p.mb-0.text-center Se consigue ahorrar en costos tanto para la empresa como para los clientes teniendo en cuenta que más o menos el 15 % del precio de los productos corresponde al transporte.
       .col-12.col-lg-4(data-aos="zoom-in-up")
         .bgr_8.p-5.h-100
           figure.mb-3.justify-center 

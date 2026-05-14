@@ -63,7 +63,7 @@
                 | Ganarse la confianza de un distribuidor.
               li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
-                | Generar BDD (estrategia de desarrollo dirigida por comportamiento)
+                | Generar BDD (estrategia de desarrollo dirigida por comportamiento).
         .row(titulo="02" subtitulo="Definir target (objetivo)")
           .col-lg-12.mb-4.mb-lg-0
             p #[strong Canal:] identificar los mejores canales para la promoción del producto o servicio, entre otros están el Internet, el email, canal tradicional, mayoristas, minoristas, etc.

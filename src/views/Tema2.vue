@@ -68,7 +68,7 @@
             img(src='@/assets/curso/tema2/t2-2.png' alt='')
         .col-lg-7.mb-4.mb-md-0
           p.text-bold 7. Mercados municipales o comunales 
-          p Son establecimientos de propiedad municipal o privada que en su interior tienen una variedad amplia de “puestos de venta” o “puestos de mercado”, que tienen una construcción estable reservada para la venta de productos alimenticios. El comprador y el vendedor son sus más importantes participantes. Están formados en su interior por estos puestos de venta individuales en los que el cliente puede elegir el producto según sea su necesidad.  Cada puesto tiene su propio espacio que es especializado (carnicería, frutas y verduras, abarrotes, etc). 
+          p Son establecimientos de propiedad municipal o privada que en su interior tienen una variedad amplia de “puestos de venta” o “puestos de mercado”, que tienen una construcción estable reservada para la venta de productos alimenticios. El comprador y el vendedor son sus más importantes participantes. Están formados en su interior por estos puestos de venta individuales en los que el cliente puede elegir el producto según sea su necesidad.  Cada puesto tiene su propio espacio que es especializado (carnicería, frutas y verduras, abarrotes, etc.). 
       .row(titulo="8").justify-center.align-items-center.p-2
         .col-md-8.col-lg-4.mb-3.mb-lg-0
           figure

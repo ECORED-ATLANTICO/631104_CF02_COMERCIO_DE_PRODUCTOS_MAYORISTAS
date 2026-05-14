@@ -13,7 +13,7 @@
           img(src='@/assets/curso/tema3/t3-1.png' alt='')
       .col-12.col-lg-6.bg_grad-04(data-aos="fade-left")
         p <b>Es el proceso donde se seleccionan, ubican y exponen los artículos en el punto de venta</b>, de tal forma que llamen la atención del cliente invitándolo a la compra, la exhibición comercial se selecciona según el tamaño y tipo de establecimiento condicionando la distribución de los productos a ofertar. 
-        p.mb-0 La exposición de los artículos en un almacén o establecimiento se hace mediante el uso de un mobiliario especial que permite mostrar al cliente la mayor cantidad de productos, durante el mayor tiempo posible:
+        p.mb-0 La exposición de los artículos en un almacén o establecimiento se hace mediante el uso de un mobiliario especial que permite mostrar al cliente la mayor cantidad de productos, durante el mayor tiempo posible.
     
     p.mb-5 Para conocer los objetivos de exhibición de mercancía revise la siguiente información:
 
