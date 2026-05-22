@@ -18,7 +18,7 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Técnicas de exhibición de mercancía',
-      titulo: 'Principios y técnicas de exhibición de mercancía',
+      titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> identificar los conocimientos previos del estudiante sobre exhibición, promoción y manejo de mercancía en el punto de venta.',
       barajarPreguntas: true,

@@ -61,7 +61,7 @@
             img(src='@/assets/curso/tema2/t2-5.png' alt='')
         .col-lg-7.mb-4.mb-md-0
           p.text-bold 6. Tiendas especializadas
-          p Es el concepto de tienda evolucionado a tiendas especializadas de gran tamaño, que presentan el autoservicio para el cliente, constituyéndose en grandes supermercados especializados. No tienen de todo, pero si poseen un gran surtido dentro de su especialización. Por ejemplo, una tienda que sea especializada en tecnología, sólo ofrecerá productos tecnológicos. Ejemplo: Ktronix
+          p Es el concepto de tienda evolucionado a tiendas especializadas de gran tamaño, que presentan el autoservicio para el cliente, constituyéndose en grandes supermercados especializados. No tienen de todo, pero si poseen un gran surtido dentro de su especialización. Por ejemplo, una tienda que sea especializada en tecnología, sólo ofrecerá productos tecnológicos. Ejemplo: Ktronix.
       .row(titulo="7").justify-center.align-items-center.p-2
         .col-md-8.col-lg-4.mb-3.mb-lg-0
           figure

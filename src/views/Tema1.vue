@@ -11,7 +11,7 @@
       .row.mb-5.justify-center.align-items-center
         .col-12.col-lg-5.p-4.p-lg-5(data-aos="fade-right")
           p El concepto de distribución comercial abarca dos aspectos fundamentales que dependen del entorno, <b>se entiende la distribución comercial como un sector de la economía y también como un proceso empresarial.</b>
-          P A continuación:
+          P A continuación se describen dichos aspectos:
         .col-12.col-lg-5(data-aos="fade-left")
           figure.mb-3  
             img(src='@/assets/curso/tema1/t1-1.png' alt='')
