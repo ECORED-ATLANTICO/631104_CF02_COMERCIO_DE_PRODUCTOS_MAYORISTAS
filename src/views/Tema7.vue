@@ -26,22 +26,25 @@
       .row.mb-5.justify-center
         .col-12.col-lg-6
           figure.mb-2
-            img(src='@/assets/curso/tema7/t7-2.svg', alt='La figura muestra una pirámide invertida sobre la jerarquía en la gestión de residuos, con las etapas: prevenir y minimizar la generación, aprovechamiento y valoración de residuos, tratamiento y disposición final. A los lados aparecen dos personas reciclando residuos en contenedores.')
-          figcaption Nota. SENA, (2026).
+            img(src='@/assets/curso/tema7/t7-2.svg', alt='La figura de una pirámide invertida sobre la jerarquía en la gestión de residuos, con las etapas: prevenir y minimizar la generación, aprovechamiento y valoración de residuos, tratamiento y disposición final. A los lados aparecen dos personas reciclando residuos en contenedores.')
 
       p.mb-5 Es importante saber que la normatividad ambiental en Colombia está regida por lo siguiente:
 
-      .row.mb-5.justify-center
-        .col-12.col-lg-7.mb-3.mb-lg-0(data-aos="fade-right")
+      .row.mb-2.justify-center
+        .col-12.col-lg-8.mb-0.mb-lg-0(data-aos="fade-right")
           div.position-relative.bg_grad-09
             p.text-bold.ms-5 Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades. 
-            p.text-bold.ms-5 CONSIDERANDO: 
-            p.text-bold.ms-5.mb-0 que el Gobierno nacional expidió el Decreto número 2676 de 2000 modificado por los Decretos números 2763 de 2001, 1669 de 2002 y 4126 de 2005.
             img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
-            img.img30.pst_7(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
+            img.img30.pst_6(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
         .col-12.col-lg-1(data-aos="fade-left")
           figure.justify-center
             img.img100(src='@/assets/curso/tema7/t7-3.svg', alt='')
+      .row.mb-5.justify-center
+        .col-12.col-lg-9.mb-0.mb-lg-0(data-aos="fade-right")
+          p.text-bold.ms-0 CONSIDERANDO: 
+          p.text-bold.ms-1.mb-0 Que el Gobierno nacional expidió el Decreto número 2676 de 2000 modificado por los Decretos números 2763 de 2001, 1669 de 2002 y 4126 de 2005.
+              
+        
 
     .row.mb-5(data-aos="fade-right")
       .col-10.col-lg-4.position-relative

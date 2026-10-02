@@ -35,7 +35,7 @@
         .col-lg-5.mb-4.mb-lg-0.align-items-center
           div
             p.text-bold 2. Rompetráfico o <em>stopper</em>
-            p Es un elemento pequeño o mediano que sobresale para promocionar productos, se convierten en la decoración de la señalización, pueden ubicarse en cualquier parte de la exhibición de los productos, su función es llamar la atención del cliente. Mide 25 centímetros de diámetro, la lengua para sujetar a la pared mide 5 centímetros, incluye dos cintas en doble <em>fast</em>.    
+            p Es un elemento pequeño o mediano que sobresale para promocionar productos, se convierten en la decoración de la señalización, pueden ubicarse en cualquier parte de la exhibición de los productos, su función es llamar la atención del cliente. Mide 25 centímetros de diámetro, la lengua para sujetar a la pared mide 5 centímetros, incluye dos cintas en doble faz.    
             P.mb-0 Las funciones que cumple el rompetráfico son: 
             | sobresalir del lineal, destacar la exhibición del producto, distingue la categoría, marca o producto; están elaborados en cartón o acrílico, en diferentes formas y dimensiones.
         .col-lg-7
@@ -53,7 +53,7 @@
         .col-lg-5.mb-4.mb-lg-0.align-items-center
           div
             p.text-bold 4. <em>Floor print</em>
-            p Es un elemento decorativo que los clientes ven adherido al piso de los pasillos de los puntos de venta, permite resaltar la ubicación del producto, su objetivo principal es diferenciarse de la competencia, es una herramienta que ayuda a vender sin la necesidad del impulsador o vendedor, permite reducir gastos en una campaña BTL o <em>Below The Line</em> (literalmente “bajo la línea) esta técnica publicitaria es parte de la comunicación no masiva del <em>marketing</em>, fomenta la recordación de la marca y aumenta las ventas.
+            p Es un elemento decorativo que los clientes ven adherido al piso de los pasillos de los puntos de venta, permite resaltar la ubicación del producto, su objetivo principal es diferenciarse de la competencia, es una herramienta que ayuda a vender sin la necesidad del impulsador o vendedor, permite reducir gastos en una campaña BTL o <em>Below The Line</em> (literalmente “bajo la línea") esta técnica publicitaria es parte de la comunicación no masiva del <em>marketing</em>, fomenta la recordación de la marca y aumenta las ventas.
             p Sus funciones son: generar recordación de la marca, aumentar la publicidad y llamar la atención de los clientes.
             p.mb-0 Están elaborados con vinilo o sustrato adhesivo, son lavables y su impresión es digital.
         .col-lg-7

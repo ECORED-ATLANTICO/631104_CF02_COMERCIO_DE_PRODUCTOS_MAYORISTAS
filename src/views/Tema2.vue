@@ -75,7 +75,7 @@
             img(src='@/assets/curso/tema2/t2-4.png' alt='')
         .col-lg-7.mb-4.mb-md-0
           p.text-bold 8. Galerías y centros comerciales
-          p Son establecimientos que agrupan en su interior a una gran cantidad de tipos de comerciantes que por lo general con especializados como por ejemplo artículos deportivos, bancos, ropa, restaurantes, salas de belleza, zona de comidas rápidas, entre otros. La diferencia entre galería y centro comercial es que la galería tiene un tamaño pequeño y el centro comercial posee un tamaño más grande. Ejemplo: La Pasarela.
+          p Son establecimientos que agrupan en su interior a una gran cantidad de tipos de comerciantes que por lo general son especializados como por ejemplo artículos deportivos, bancos, ropa, restaurantes, salas de belleza, zona de comidas rápidas, entre otros. La diferencia entre galería y centro comercial es que la galería tiene un tamaño pequeño y el centro comercial posee un tamaño más grande. Ejemplo: La Pasarela.
       .row(titulo="9").justify-center.align-items-center.p-2
         .col-md-8.col-lg-4.mb-3.mb-lg-0
           figure

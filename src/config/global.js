@@ -111,7 +111,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/631104_CF02_DU.pdf',
+        download: 'downloads/631104_CF02_CFA.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -165,7 +165,7 @@ export default {
     {
       termino: 'Consumo',
       significado:
-        'Acción de consumir o gastar un producto o servicio para atender diversas necesidades. ',
+        'Acción de consumir o gastar un producto o servicio para atender diversas necesidades.',
     },
     {
       termino: 'Cronológica',
@@ -175,7 +175,7 @@ export default {
     {
       termino: 'Distribución comercial',
       significado:
-        'Proceso de planificación comercial y de marketing del productor para llevar los productos a los diferentes consumidores.',
+        'Proceso de planificación comercial y de <em>marketing</em> del productor para llevar los productos a los diferentes consumidores.',
     },
     {
       termino: 'Distribuidoras',
@@ -189,11 +189,6 @@ export default {
     {
       termino: 'Logística',
       significado:
-        'Acción de consumir o gastar un producto o servicio para atender diversas necesidades. ',
-    },
-    {
-      termino: 'Consumo',
-      significado:
         'Medios, métodos e infraestructura para garantizar el almacenamiento, transporte y entrega de productos o servicios.',
     },
     {
@@ -204,7 +199,7 @@ export default {
     {
       termino: 'Mercadotecnia',
       significado:
-        'Conjunto de actividades que se llevan a cabo con el fin de aumentar la demanda en el comercio',
+        'Conjunto de actividades que se llevan a cabo con el fin de aumentar la demanda en el comercio.',
     },
     {
       termino: 'Producción',
@@ -214,57 +209,55 @@ export default {
     {
       termino: 'Producto terminado',
       significado:
-        'Bien que surge mediante el proceso de fabricación para la venta en el sector comercial, con el fin de satisfacer necesidades del consumidor',
+        'Bien que surge mediante el proceso de fabricación para la venta en el sector comercial, con el fin de satisfacer necesidades del consumidor.',
     },
     {
       termino: 'Separación geográfica',
       significado:
-        'División del mercado teniendo en cuenta las diferencias geográficas que hay de un lugar a otro, ayuda a recopilar y analizar información de la ubicación',
+        'División del mercado teniendo en cuenta las diferencias geográficas que hay de un lugar a otro, ayuda a recopilar y analizar información de la ubicación.',
     },
   ],
   referencias: [
     {
-      referencia: 'Alana, F (2021) . <em>¿Qué es el Material POP?</em>.',
+      referencia: 'Alana, F. (2021). ¿Qué es el Material POP?.',
       link: 'https://deepbluepop.com/material-pop/que-es-el-material-pop/',
     },
     {
       referencia:
-        'Borja, R. (2021). <em>Merchadinsing. Teoría, práctica y estrategia</em>.  Tercera edición. Madrid: Esic Editorial.',
+        'Borja, R. (2021). <em>Merchandising</em>. Teoría, práctica y estrategia.  Tercera edición. Madrid: Esic Editorial.',
     },
     {
-      referencia:
-        'Cortés, G. (2017). <em>7 Tipos de exhibición en punto de venta</em>.',
+      referencia: 'Cortés, G. (2017). 7 Tipos de exhibición en punto de venta.',
       link: 'https://www.informabtl.com/7-tipos-exhibicion-en-punto-venta/',
     },
     {
       referencia:
-        'Cruz, I. (1991). <em>Fundamentos de Marketing</em>, Editorial Ariel, Barcelona.',
+        'Cruz, I. (1991). Fundamentos de <em>Marketing</em>, Editorial Ariel, Barcelona.',
     },
     {
-      referencia:
-        'Economipedia. (2020). <em>Canales de distribución comercial</em>.',
+      referencia: 'Economipedia. (2020). Canales de distribución comercial.',
       link:
-        'https://economipedia.com/definiciones/canales-de-distribucion.html',
+        'https://economipedia.com/significadoes/canales-de-distribucion.html',
     },
     {
       referencia:
-        'ILERNA.  (2019). <em>Los intermediarios en la distribución comercial</em>.',
+        'ILERNA.  (2019). Los intermediarios en la distribución comercial.',
       link:
         'https://www.ilerna.es/blog/fp-online/intermediarios-en-la-distribucion-comercial/',
     },
     {
       referencia:
-        'Martínez, I. (2015). <em>¿Qué es y cómo se realiza un plan promocional?</em>.',
+        'Martínez, I. (2015). ¿Qué es y cómo se realiza un plan promocional?.',
       link:
         'https://blog.comunicae.es/que-es-y-como-se-realiza-un-plan-promocional/',
     },
     {
       referencia:
-        'Santesmases, M. (1999). <em>Marketing. Conceptos y Estrategias</em>, 4ª edición, Ediciones Pirámide, Madrid',
+        'Santesmases, M. (1999). Marketing. Conceptos y Estrategias, 4ª edición, Ediciones Pirámide, Madrid',
     },
     {
       referencia:
-        'Vázquez, R., Trespalacios, J. (1997). <em>Distribución Comercial</em>. Estrategias de Fabricantes y Detallistas, Editorial Cívitas, Madrid.',
+        'Vázquez, R., Trespalacios, J. (1997). Distribución Comercial. Estrategias de Fabricantes y Detallistas, Editorial Cívitas, Madrid.',
     },
   ],
   creditos: [
@@ -274,7 +267,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -300,7 +293,7 @@ export default {
         },
         {
           nombre: 'Jeimy Lorena Romero Perilla',
-          cargo: 'Diseñador instruccional ',
+          cargo: 'Diseñadora instruccional ',
           centro:
             'Centro de la industria, la empresa y los servicios Regional - Norte de Santander',
         },
@@ -395,12 +388,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -410,7 +403,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -418,7 +411,7 @@ export default {
   ],
   creditosAdicionales: {
     imagenes:
-      'Fotografías y vectores tomados de <a href="https://www.freepik.es/" target="_blank">www.freepik.es</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
+      'Fotografías y vectores tomados de <a href="https://www.magnific.com/es" target="_blank">www.magnific.com</a>, <a href="https://www.shutterstock.com/" target="_blank">www.shutterstock.com</a>, <a href="https://unsplash.com/" target="_blank">unsplash.com </a>y <a href="https://www.flaticon.com/" target="_blank">www.flaticon.com</a>',
     creativeCommons:
       'Licencia creative commons CC BY-NC-SA<br><a href="https://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank">ver licencia</a>',
   },

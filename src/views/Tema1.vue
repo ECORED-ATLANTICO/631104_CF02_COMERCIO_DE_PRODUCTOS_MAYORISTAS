@@ -54,7 +54,7 @@
               p 1. Cruz  (1991) considera que: “para que las ventas de una empresa se produzcan no basta con tener un buen producto, a un buen precio y que sea conocido por los consumidores, sino que, además, es necesario que se encuentre en el lugar y momento adecuados para que ese producto sea accesible al consumidor” (p. 250). 
           .row.p-3.p-lg-5
             .col-12
-              p 2. Vásquez y Trespalacios (1997) manifiestan que: “la distribución comercial, al encontrarse entre la producción y el consumo, va a crear utilidades a los consumidores y servicios a los productores. La distribución crea al consumidor utilidad de lugar, de tiempo, de forma y de creación de surtidos y de posesión” (p.2829). 
+              p 2. Vásquez y Trespalacios (1997) manifiestan que: “la distribución comercial, al encontrarse entre la producción y el consumo, va a crear utilidades a los consumidores y servicios a los productores. La distribución crea al consumidor utilidad de lugar, de tiempo, de forma y de creación de surtidos y de posesión” (p.28-29). 
           .row.p-3.p-lg-5
             .col-12
               p 3. Por su parte Santesmases (1999) menciona que: “además, la separación geográfica entre vendedores y compradores hace necesaria una función que acerque los productos desde los lugares donde son fabricados hasta los lugares donde son consumidos. Desde este punto de vista, la distribución comercial se puede definir como la función o instrumento del <em>marketing</em>  (mercadotecnia o estudio del mercado) que relaciona la producción con el consumo y cuya misión es poner el producto a disposición del consumidor en la cantidad demandada, en el momento en que lo necesite y en el lugar donde desee adquirirlo, desarrollando, además un conjunto de actividades como pueden ser las de información, promoción y presentación del producto en el punto de venta a fin de estimular la compra por parte de los consumidores” (p. 509).
@@ -67,8 +67,7 @@
           h5 Figura 1.
           span Proceso empresarial de la distribución comercial
         figure.mb-2
-          img(src='@/assets/curso/tema1/t1-4.svg' alt='Diagrama de tres niveles de la cadena de distribución: centros de distribución o industria (empresas fabricantes), distribución comercial o intermediación (empresas comerciales) y centros de consumo o mercado (consumidores finales u organizaciones), conectados verticalmente para mostrar el proceso desde la producción hasta el consumo. ')
-        figcaption Nota. SENA, (2026).
+          img(src='@/assets/curso/tema1/t1-4.svg' alt='La figura muestra una cadena de distribución compuesta por tres niveles conectados verticalmente. En la parte superior se encuentran los centros de distribución o industria, representados por empresas fabricantes o industriales. En el nivel intermedio aparece la distribución comercial o intermediación comercial, conformada por empresas comerciales o de distribución. Finalmente, en la parte inferior se ubican los centros de consumo o mercado, integrados por consumidores finales u organizaciones.')
 
     p.mb-5 En la distribución comercial existen algunos tipos de utilidades, para conocerlos revise con atención el siguiente recurso educativo:
 
@@ -155,7 +154,7 @@
                 p.text-bold 4. Comisionista
                 p.mb-0 Es un intermediario que no tiene relación laboral con la empresa que está representando, el comisionista realiza operaciones ocasionales, su relación comercial no es permanente.
               .tarjeta.p-3(x="67%" y="53%" numero="")
-                p.mb-0.text-bold 5. Corredor de comercio o <em>broker</em> (agente intermediario en operaciones financiera o comerciales)
+                p.mb-0.text-bold 5. Corredor de comercio o <em>broker</em> (agente intermediario en operaciones financieras o comerciales)
                 p.mb-0 Es un intermediario esporádico, pone de acuerdo o relaciona a compradores y vendedores, trabaja por una comisión que acuerda con anterioridad. 
           .col-12.col-lg-4
             figure.mb-3

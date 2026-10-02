@@ -64,7 +64,7 @@
               li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
                 | Generar BDD (estrategia de desarrollo dirigida por comportamiento).
-        .row(titulo="02" subtitulo="Definir target (objetivo)")
+        .row(titulo="02" subtitulo="Definir 𝑡𝑎𝑟𝑔𝑒𝑡 (objetivo)")
           .col-lg-12.mb-4.mb-lg-0
             p #[strong Canal:] identificar los mejores canales para la promoción del producto o servicio, entre otros están el Internet, el email, canal tradicional, mayoristas, minoristas, etc.
             p #[strong Red de ventas:] definir si serán las propias o externas.
@@ -75,7 +75,7 @@
             p El presupuesto debe definirse en tres criterios, el primero es los recursos con los que cuenta la empresa, el segundo teniendo en cuenta el porcentaje (%) de las ventas proyectadas y el tercero está en función de la competencia y sus gastos.
             .cajon.bgr_25.p-4.mb-4
               p.mb-0 El presupuesto debe obedecer a la realidad y debe coincidir con los objetivos, por ejemplo, si la previsión es optimista y el presupuesto ajustado no se considera realista.  
-        .row(titulo="04" subtitulo="Timing (tiempo)")
+        .row(titulo="04" subtitulo="𝑇𝑖𝑚𝑖𝑛𝑔 (tiempo)")
           .col-lg-12.mb-4.mb-lg-0
             p En el plan promocional se debe planear la fecha de la campaña y por cuánto tiempo va a durar en el punto de venta, también hay que crear un calendario de actividades.  
         .row(titulo="05" subtitulo="Mecánica, soportes e incentivos")
@@ -84,7 +84,7 @@
             p El soporte se refiere al canal de comunicación seleccionado para la promoción, por ejemplo, si es el mismo producto (<em>packaging:</em> en el mismo empaque), en el punto de venta (<em>online/offline:</em> promoción por internet), redes sociales, etc. 
         .row(titulo="06" subtitulo="Creatividad")
           .col-lg-12.mb-4.mb-lg-0
-            p En este punto de deben tener en cuenta los siguientes aspectos:
+            p En este punto se deben tener en cuenta los siguientes aspectos:
             ul.lista-ul--color
               li.mb-4.d-flex
                 i.fas.fa-paper-plane.colr_1
