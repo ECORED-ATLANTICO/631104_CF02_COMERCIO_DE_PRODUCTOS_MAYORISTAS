@@ -35,7 +35,7 @@
           div.position-relative.bg_grad-09
             p.text-bold.ms-5 Por el cual se reglamenta la gestión integral de los residuos generados en la atención en salud y otras actividades. 
             img.img30.pst_5(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
-            img.img30.pst_6(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
+            img.img30.pst_6_1(src='@/assets/componentes/Icon awesome-quote-right.svg', alt='')
         .col-12.col-lg-1(data-aos="fade-left")
           figure.justify-center
             img.img100(src='@/assets/curso/tema7/t7-3.svg', alt='')
